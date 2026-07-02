@@ -35,6 +35,3 @@ My goal is to grow as a developer while studying and building real‑world appli
 - I enjoy video games, movies, and self‑improvement  
 - Favorite anime: **One Piece** 🏴‍☠️  
 
-I enjoy video games, movies, and self‑improvement.
-
-Favorite anime: One Piece 🏴‍☠️
